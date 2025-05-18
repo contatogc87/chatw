@@ -1,0 +1,13 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "main": "bot1",
+  "scripts": {
+    "start": "node bot1"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.19.4",
+    "qrcode-terminal": "^0.12.0",
+    "node-fetch": "^2.6.1"
+  }
+}
